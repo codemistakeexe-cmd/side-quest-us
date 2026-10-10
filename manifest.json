@@ -1,0 +1,10 @@
+{
+  "name": "Side Quest: Us",
+  "short_name": "Side Quest",
+  "description": "Dos personas, infinitas recomendaciones, una sola historia.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#100c17",
+  "theme_color": "#120d1b",
+  "icons": []
+}
